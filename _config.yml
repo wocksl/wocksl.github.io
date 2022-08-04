@@ -11,12 +11,12 @@ baseurl: ''
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Yoon Jae Chan'
+  email: wocksl1998@gmail.com
+  # twitter_username: joshgerdes
+  # facebook_username: joshgerdes
+  github_username:  wocksl
+  # linkedin_username:  joshgerdes
 
 defaults:
   -
