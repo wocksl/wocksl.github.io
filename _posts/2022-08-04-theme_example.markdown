@@ -1,7 +1,6 @@
 ---
 title:  "theme 사용 예시"
-date:   2016-01-08 15:04:23
-#date:   2022-08-05 02:06:00
+date:   2022-08-04 01:00:00
 categories: [jekyll]
 tags: [jekyll]
 ---
