@@ -1,6 +1,8 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+# title: Jekyll-Uno
+title: JaeChan's dev blog
+# description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+description: 'welcome'
 # url: 'http://joshgerdes.com/jekyll-uno'
 url: 'http://wocksl.github.io'
 baseurl: ''
